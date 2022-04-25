@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import GoogleAuth from './GoogleAuth';
+import GoogleAuth from './components/GoogleAuth';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
