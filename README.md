@@ -4,6 +4,3 @@
 
 This project integrates Google Auth Library with React Redux to provide an OAuth login.
 
-## Authors
-
- * **Edward P. Legaspi** - *Java Architect* - [czetsuya](https://github.com/czetsuya)
